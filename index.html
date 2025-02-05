@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="OpenSCD" content="width=device-width, initial-scale=1.0" />
+    <title>OpenSCD Home</title>
+    <link rel="stylesheet" href="./styles.css" />
+    <style>
+      body {
+        display: grid;
+        grid-template-columns: max-content 1fr;
+        grid-template-rows: max-content 1fr;
+        gap: 1em;
+        height: calc(100vh - 8px);
+        margin: 0;
+        padding: 1em;
+      }
+
+      header {
+        grid-column: 1/3;
+      }
+    </style>
+  </head>
+
+  <body>
+    <header>
+      <h1>OpenSCD - Open System Configuration Designer</h1>
+    </header>
+    <aside>
+      <nav>
+        <p><a href="home.html" target="mainframe">Home</a></p>
+        <p><a href="about.html" target="mainframe">About OpenSCD</a></p>
+        <p><a href="get.html" target="mainframe">How to get OpenSCD</a></p>
+        <p><a href="resources.html" target="mainframe">Resources</a></p>
+        <p><a href="archive.html" target="mainframe">Archive</a></p>
+        <p><a href="imprint.html" target="mainframe">Imprint</a></p>
+      </nav>
+    </aside>
+    <main>
+      <iframe src="home.html" name="mainframe" width="100%" height="100%">
+      </iframe>
+    </main>
+  </body>
+</html>
