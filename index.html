@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
-    <meta name="OpenSCD" content="width=device-width, initial-scale=1.0" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>OpenSCD Home</title>
     <link rel="stylesheet" href="./styles.css" />
     <style>
@@ -18,13 +18,42 @@
       header {
         align-self: center;
       }
+
+      iframe {
+        height: 100%;
+        width: calc(100% - 1em);
+      }
+
+      @media (max-width: 600px) {
+        body {
+          grid-template-columns: 1fr;
+          grid-template-rows: max-content min-content min-content 1fr;
+        }
+
+        img {
+          width: 100px;
+        }
+        header h1 {
+          font-size: 28px;
+          margin: 0;
+        }
+
+        aside nav {
+          text-align: center;
+        }
+
+        aside p {
+          display: inline;
+          padding-inline: 0.5em;
+        }
+      }
     </style>
   </head>
 
   <body>
-      <a href="home.html" target="mainframe" style="align-self: center;">                                   
-        <img src="images/logo.png" alt="OpenSCD Logo"/>
-      </a>
+    <a href="home.html" target="mainframe" style="align-self: center">
+      <img src="images/logo.png" alt="OpenSCD Logo" />
+    </a>
     <header>
       <h1>Open System Configuration Designer</h1>
     </header>
@@ -39,8 +68,7 @@
       </nav>
     </aside>
     <main>
-      <iframe src="home.html" name="mainframe" width="100%" height="100%">
-      </iframe>
+      <iframe src="home.html" name="mainframe"> </iframe>
     </main>
   </body>
 </html>
