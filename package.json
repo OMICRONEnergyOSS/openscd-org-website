@@ -1,0 +1,39 @@
+{
+  "name": "@omicronenergy/openscd-org-website",
+  "version": "0.0.1",
+  "description": "The static content for the OpenSCD website",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OMICRONEnergyOSS/openscd-org-website.git"
+  },
+  "keywords": [
+    "scl",
+    "xml",
+    "iec",
+    "61850",
+    "iec61850",
+    "scd",
+    "omicronenergy"
+  ],
+  "author": "OMICRON Electronics GmbH",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/OMICRONEnergyOSS/openscd-org-website/issues"
+  },
+  "homepage": "https://github.com/OMICRONEnergyOSS/openscd-org-website#readme",
+  "scripts": {
+    "start": "vitepress dev",
+    "bundle": "vitepress build",
+    "preview": "vitepress preview"
+  },
+  "dependencies": {
+    "@commitlint/cli": "^19.8.1",
+    "@commitlint/config-conventional": "^19.8.1",
+    "husky": "^9.1.7",
+    "rimraf": "^6.0.1",
+    "vitepress": "^1.6.4"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
+  }
+}
