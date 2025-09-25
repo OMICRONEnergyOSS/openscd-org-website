@@ -1,0 +1,1 @@
+import{_ as r,c as t,o as a,ae as o}from"./chunks/framework.BD_Yrv4e.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"imprint.md","filePath":"imprint.md"}'),i={name:"imprint.md"};function n(m,e,c,p,s,l){return a(),t("div",null,[...e[0]||(e[0]=[o("",7)])])}const d=r(i,[["render",n]]);export{_ as __pageData,d as default};

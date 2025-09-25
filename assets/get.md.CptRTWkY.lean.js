@@ -1,0 +1,1 @@
+import{_ as t,c as o,o as r,ae as a}from"./chunks/framework.BD_Yrv4e.js";const u=JSON.parse('{"title":"How to get OpenSCD","description":"","frontmatter":{},"headers":[],"relativePath":"get.md","filePath":"get.md"}'),n={name:"get.md"};function i(s,e,l,p,h,d){return r(),o("div",null,[...e[0]||(e[0]=[a("",10)])])}const g=t(n,[["render",i]]);export{u as __pageData,g as default};
