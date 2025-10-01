@@ -1,4 +1,10 @@
-# An IEC 61850 Engineering Tool
+---
+hideNav: true
+---
+
+# Open System Configuration Designer
+
+## An IEC 61850 Engineering Tool
 
 OpenSCD is a tool for creating and manipulating IEC 61850 system configuration
 language (SCL) files.
@@ -9,7 +15,7 @@ It is instantly usable as a web application.
 
 As it is Open-Source, any interested party can add functionality. The next feature is always the one you are working on.
 
-# News
+## News
 
 ::: info Meinberg Supports IEC 61850
 Meinberg has integrated IEC 61850 MMS Server support into its
