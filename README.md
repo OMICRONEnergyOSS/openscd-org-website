@@ -1,5 +1,3 @@
-[![Tests](https://github.com/OMICRONEnergyOSS/openscd-org-website/actions/workflows/test.yml/badge.svg)](https://github.com/OMICRONEnergyOSS/openscd-org-website/actions/workflows/test.yml) ![NPM Version](https://img.shields.io/npm/v/@omicronenergy/openscd-org-website)
-
 # OpenSCD Website
 
 This repository contains the source code for the [OpenSCD](https://openscd.org) website, built using [VitePress](https://vitepress.vuejs.org/).
