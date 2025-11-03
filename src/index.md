@@ -17,6 +17,13 @@ As it is Open-Source, any interested party can add functionality. The next featu
 
 ## News
 
+::: info Communication Editor helps spotting mistakes
+Daniel Abetz posted an interesting use case for OpenSCD on LinkedIn:
+https://www.linkedin.com/posts/danielabetz_goose-iec61850-openscd-activity-7380819250816540673-qIPy?utm
+"One quick look in OpenSCD Communication Editor showed me I made a mistake".
+This is a great example how OpenSCD is useful "as is", without customizations or extensions. <Badge type="info" text="2025-10-06" />
+:::
+
 ::: info Meinberg Supports IEC 61850
 Meinberg has integrated IEC 61850 MMS Server support into its
 clocks, enabling seamless substation engineering and monitoring. Configuration
