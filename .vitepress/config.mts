@@ -30,7 +30,6 @@ export default defineConfig({
     logo: "logo.png",
     outline: [2, 3],
     footer: {
-      message: "This project is licensed under the Apache License 2.0",
       copyright: "Copyright © 2025 OMICRON electronics GmbH",
     },
     docFooter: {
