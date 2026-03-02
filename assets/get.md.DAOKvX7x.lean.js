@@ -1,1 +1,0 @@
-import{_ as t,o,c as r,ae as a}from"./chunks/framework.apg654J5.js";const u=JSON.parse('{"title":"How to get OpenSCD","description":"","frontmatter":{},"headers":[],"relativePath":"get.md","filePath":"get.md"}'),n={name:"get.md"};function i(s,e,l,p,h,d){return o(),r("div",null,[...e[0]||(e[0]=[a("",10)])])}const g=t(n,[["render",i]]);export{u as __pageData,g as default};
