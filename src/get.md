@@ -8,7 +8,7 @@ Only the application is loaded from the internet, the processing of the SCL data
 
 OpenSCD can also be installed locally.
 
-Information about this is on the (OpenSCD Wiki on github)[https://github.com/openscd/open-scd/wiki].
+Information about this is on the [OpenSCD Wiki on github](https://github.com/openscd/open-scd/wiki).
 
 # Other versions of OpenSCD
 
