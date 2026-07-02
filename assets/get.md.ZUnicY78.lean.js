@@ -1,0 +1,1 @@
+import{_ as o,o as t,c as r,ae as a}from"./chunks/framework.j37CKoBH.js";const u=JSON.parse('{"title":"How to get OpenSCD","description":"","frontmatter":{},"headers":[],"relativePath":"get.md","filePath":"get.md"}'),n={name:"get.md"};function i(s,e,l,p,d,c){return t(),r("div",null,[...e[0]||(e[0]=[a("",10)])])}const g=o(n,[["render",i]]);export{u as __pageData,g as default};
