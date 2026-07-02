@@ -12,9 +12,14 @@ Information about this is on the [OpenSCD Wiki on github](https://github.com/ope
 
 # Other versions of OpenSCD
 
-There are other versions of OpenSCD available publicly on the web.
+There are other versions of OpenSCD available publicly on the web. These versions may use different shells, plugin sets, integrations, or release cadences than the original community application.
 
 _If you know of any that are not listed here yet, please reach out to us on [Zulip](https://openscd.zulipchat.com) or [directly file a pull request for this website on GitHub](https://github.com/OMICRONEnergyOSS/openscd-org-website/pulls)._
+
+- [OMICRON Academy OpenSCD](https://omicronenergyoss.github.io/oscd-academy/) is a distribution used for training, examples, and ongoing OpenSCD development.
+  It is based on a recent OpenSCD application shell and gives an impression of where OMICRON’s OpenSCD development and user experience are heading.
+  This public instance reflects current development work and should therefore be understood as a work in progress, not as a product release. 
+  As such, it may still contain bugs and does not imply product support or a commitment to a specific future release.
 
 - [OpenEnergyTools SCL Editor](https://openenergytools.github.io/scl-editor) including plugin prototypes.
   While its maintainer Jakob Vogelsang does not recommend it for productive use, it serves as a valuable example for developers and can be used to preview upcoming features.
