@@ -71,6 +71,14 @@
 }
 
 /**
+ * Component: Nav
+ * -------------------------------------------------------------------------- */
+
+:root:not(.dark) .VPNavBarTitle .title span {
+  color: #0B335B;
+}
+
+/**
  * Component: Button
  * -------------------------------------------------------------------------- */
 
@@ -136,4 +144,3 @@
 .DocSearch {
   --docsearch-primary-color: var(--vp-c-brand-1) !important;
 }
-
